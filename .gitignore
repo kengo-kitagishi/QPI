@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data & results
+data/
+results/
+
+# macOS
+.DS_Store
+
