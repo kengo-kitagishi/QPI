@@ -1,5 +1,5 @@
 # %%
-
+from paths import DATA, RESULTS
 import numpy as np
 import matplotlib.pyplot as plt
 import tifffile
